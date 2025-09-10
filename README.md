@@ -21,3 +21,14 @@ I configured my network settings to NAT in both my Windows and Kali because I wi
 Next, I downloaded and installed Splunk on my Windows 10 VM. 
 
 ### Step 4
+
+Next, I downloaded Sysmon and an olaf configuration on my Windows 10 VM.
+
+### Step 5
+
+I then used Windows Powershell with admin privileges to install Sysmon with the configuration.
+
+### Step 6
+
+
+
