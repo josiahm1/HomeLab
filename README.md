@@ -2,21 +2,22 @@
 
 ## Objectives
 
-This peoject is to set up a homelab and document my different projects I do. I will be expanding my knowledge in system administration, threat detection, and using SIEM tools. This lab uses different Windows and Linux Virtual Machines. 
+This peoject is to set up a homelab and document my different projects I do. I will be expanding my knowledge in system administration, threat detection, and using SIEM tools. 
 
 ## Skills Learned
 
+- How to setup VM's and properly configurate them for how I am using them.
+- How to use offensive security tools.
+- How to monitor malicious activity using Splunk, Sysmon, and event logs.
+- Sandboxed the VMs from host network to give myself a safe testing environment.
+
 ## Tools Used
 
--VirtualBox (Windows and Kali Linux)
-
--Splunk
-
--Sysmon
-
--Offensive Security (Nmap and Metasploit)
-
--Endpoint Security (Microsoft Defender)
+- VirtualBox (Windows and Kali Linux)
+- Splunk
+- Sysmon
+- Offensive Security (Nmap and Metasploit)
+- Endpoint Security (Microsoft Defender)
 
 ## Steps
 
