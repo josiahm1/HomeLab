@@ -14,4 +14,10 @@ I installed a Windows 10 VM and a Kali Linux VM.
 
 ### Step 2
 
-I ran this command on my host computer to ensure that when using these VM's, that the VM's are sandboxed from the host computer.
+I configured my network settings to NAT in both my Windows and Kali because I will be using tools that require internet conenction
+
+### Step 3
+
+Next, I downloaded and installed Splunk on my Windows 10 VM. 
+
+### Step 4
